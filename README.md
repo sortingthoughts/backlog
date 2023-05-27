@@ -8,3 +8,16 @@ I appreciate your contributions and look forward to working with you to improve 
 
 - [Discussions](https://github.com/sortingthoughts/backlog/discussions)
 - [Issues](https://github.com/sortingthoughts/backlog/issues)
+
+-----
+
+### Willkommen beim GitHub Issue Backlog für das Projekt Sorting Thoughts!
+
+Hier findest du eine Liste aller offenen und geschlossenen Probleme sowie laufende Diskussionen zum Projekt.
+
+Ich schätze das Engagement und das Feedback unserer Community sehr und ermutige dich, etwaige Probleme oder Vorschläge einzureichen. Bitte stell sicher, dass du nach vorhandenen Problemen suchst, bevor du ein neues erstellst und verwende bitte für das Erstellen die vorhandene Vorlage.
+
+Ich schätze eure Beiträge sehr und freue mich darauf, mit euch zusammenzuarbeiten, um unser Projekt zu verbessern. Beträge in Deutsch oder Englisch sind willkommen.
+
+- [Diskussionen](https://github.com/sortingthoughts/backlog/discussions)
+- [Probleme](https://github.com/sortingthoughts/backlog/issues)
